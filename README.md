@@ -13,4 +13,4 @@ This is how I will be playing the Pokémon Platinum Kaizo ROM hack. I just want 
 | **Diversity** | Each Pokémon in the party must hold a unique item. |
 | **Sweet Tooth** | I can apply as many Rare Candies as I need to my save via PKHex. |
 | **No Pre-Sleep** | I will not be using the pre-sleep mechanic to enter battles with. |
-| **Natural Order** | Heart Scales are a finite resource in PK. I am not allowed to give myself more through PKHex.<br>Furthermore, I cannot edit learnsets via PKHex. |
+| **Natural Order** | Heart Scales are a finite resource in PK. I am not allowed to give myself more through PKHex. |
